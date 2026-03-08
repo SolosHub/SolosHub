@@ -1,4 +1,4 @@
-Hello, I’m call me Solo!
+Hello, call me Solo!
 
 <!---
 SolosHub/SolosHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
